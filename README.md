@@ -1,10 +1,11 @@
 # GPU-Assignment-5KK70
 
-## To compile : 
+
+To compile on colab : 
 
 ```sh
-mkdir build 
+!mkdir build 
 %cd build
-cmake ..
-make
+!cmake ..
+!make
 ```
